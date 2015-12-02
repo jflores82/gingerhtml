@@ -1,0 +1,12 @@
+---------
+GingerHtml Notes
+---------
+
+General Information : 
+Ginger HTML is a pretty simple HTML / Text editor, made entirely by me, in Visual Basic 6. It supports opening HTML/SHTML/M3U and TXT files, (along with *.* for any other extension.). And it features a F12 hit for saving and testing in Internet Explorer. It was made to stop my madness-like renaming when making/editing a website : rename to .txt, open in notepad, save, rename to .html, open in ie/firefox, test, rename to .txt, etc. etc. It is pretty simple and not feature full and it will stay that way. 
+
+Download : 
+There's only one version available for download, along with full Visual Basicsource code for it.
+
+Disclaimer : 
+You can use and distribute Ginger HTML, as long you NOT modify it or its original package in ANY ways, and *NEVER* sell it.Ginger HTML is a registered trademark of Ti-B0ne. Ginger HTML is freeware.The code is given for education purporses only, i'm not responsible for any damage that it can cause in its original or modified forms. Any use of it, must be credited to me.
